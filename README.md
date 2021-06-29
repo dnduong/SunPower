@@ -33,7 +33,9 @@ This work is private to TotalEnergies so I cannot show you the codes behind, her
 
 # 3. Obstacle detection: given a roof indicates obstacle like window etc.
 
-Not available
+![alt text](https://github.com/dnduong/SunPower/blob/main/images/Picture6.png)
+
+![alt text](https://github.com/dnduong/SunPower/blob/main/images/Picture5.png)
 
 # 4. Panels layout: given a roof with corresponding obstacles a set of panels put in free space
 
