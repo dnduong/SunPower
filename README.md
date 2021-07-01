@@ -33,7 +33,7 @@ This work is private to TotalEnergies so I cannot show you the codes behind, her
 
 # 3. Obstacle detection: given a roof indicates obstacle like window etc.
 
-Not Available
+This part is for now confidential since a "brevet de propriété intellectuelle" is being deposited. This will be available soon.
 
 # 4. Panels layout: given a roof with corresponding obstacles a set of panels put in free space
 
