@@ -1,6 +1,6 @@
 # SunPower
 
-Hello, my name is Nguyen, I am working for TotalEnergies as a Deep Learning Reseacher and Computer Vision Engineer for my end-of-studies internship (6 months). I am working on the project " Satellite Imagery & AI : Prediction of solar photovoltaic potential from open data". A set of 4 algorithms have been developped until now (3rd month of my internship):
+Hello, my name is Nguyen. I am working at TotalEnergies as a Deep Learning Researcher and Computer Vision Engineer for my end-of-studies internship (6 months) on the project " Satellite Imagery & AI: Prediction of solar photovoltaic potential from open data". A set of 4 algorithms have been developped until now (3rd month of my internship):
 
 1. Roof segmentation: given an images detect roof geometry
 2. Roof materials: given a roof indicates the composition zinc, ardoise and so on (work not that great ;))
